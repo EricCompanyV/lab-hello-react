@@ -1,0 +1,41 @@
+.first-div{
+    color: white;
+    background-position:center;
+
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png");
+    
+    height: 600px
+}
+
+.navbar{
+    padding-top: 10px;
+    display:flex;
+    justify-content: space-around;
+}
+
+.navbar > img {
+    height: auto
+}
+
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.react {
+    width: 40%;
+}
+
+.second-div {
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    justify-content: space-around;
+}
+
+.container-div {
+    width: 250px
+}
